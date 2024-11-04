@@ -1,5 +1,5 @@
-# Calcnbits
-RSA中计算模数n的比特
+# RSA-Calcbits
+RSA中计算比特
 
 ```python
 pip install math
