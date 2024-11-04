@@ -6,4 +6,4 @@ def get_bit_length(n):
 n = int(input("Enter data: "))
 
 bit_length = get_bit_length(n)
-print(f"this data's bits is: {bit_length}")
+print(f"this data's bit is: {bit_length}")
